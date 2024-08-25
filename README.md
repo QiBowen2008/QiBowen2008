@@ -1,4 +1,6 @@
 ## Hi there 👋
+我叫齐博文，来自青岛西海岸新区一中（网站：qdxhayz.github.io，仓库：github.com/qdxhayz）
+更多内容见个人主页link3.cc/buger
 
 <!--
 **QiBowen2008/QiBowen2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
