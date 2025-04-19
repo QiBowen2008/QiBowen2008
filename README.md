@@ -1,5 +1,5 @@
 ## Hi there 👋
-我叫齐博文，来自青岛西海岸新区一中（网站：qdxhayz.github.io，仓库：github.com/qdxhayz）
+我叫齐博文，来自青岛西海岸新区一中
 更多内容见个人主页link3.cc/buger
 
 <!--
